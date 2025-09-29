@@ -37,7 +37,7 @@ This Power BI project provides an interactive analysis of **global GDP trends**,
 
 | CO₂ Emissions | Life Expectancy | Global GDP Trends |
 |---------------|----------------|------------------|
-| ![CO2](co2 Emissions.png) | ![Life](Life Expectancy.png) | ![GDP](Global GDP Trends.png) |
+| ![CO2](co2_Emissions.png) | ![Life](Life_Expectancy.png) | ![GDP](Global_GDP_Trends.png) |
 
 
 
@@ -72,5 +72,5 @@ This Power BI project provides an interactive analysis of **global GDP trends**,
 
 **Your Name**  
 *Data Analyst / Power BI Developer*  
-🔗 *[LinkedIn or Portfolio Link]*
+🔗https://www.linkedin.com/in/siddhant-raj-91a5a8262/
 
