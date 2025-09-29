@@ -1,4 +1,4 @@
-# 🌍 Global Economic & Sustainability Dashboard – Power BI
+# 🌍 Global Economic Dashboard – Power BI
 
 This Power BI project provides an interactive analysis of **global GDP trends**, **CO₂ emissions**, and **life expectancy** across multiple countries. The goal is to explore how **economic growth correlates with environmental sustainability and human well-being**, highlighting key insights such as **decoupling trends** and **development patterns**.
 
@@ -37,9 +37,9 @@ This Power BI project provides an interactive analysis of **global GDP trends**,
 
 | CO₂ Emissions | Life Expectancy | Global GDP Trends |
 |---------------|----------------|------------------|
-| ![CO2](./screenshots/co2.png) | ![Life](./screenshots/life.png) | ![GDP](./screenshots/gdp.png) |
+| ![CO2](co2 Emissions.png) | ![Life](Life Expectancy.png) | ![GDP](Global GDP Trends.png) |
 
-> *(Replace image paths with actual files if stored locally or online)*
+
 
 ---
 
